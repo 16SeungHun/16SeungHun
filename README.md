@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Seunghun%20Lee&fontSize=90)
 
-![KakaoTalk_20230914_231852714_02](https://github.com/16SeungHun/16SeungHun/assets/79971467/9e5367de-71c6-4684-8f87-29a8454da027)
+<img src="https://github.com/16SeungHun/16SeungHun/assets/79971467/9e5367de-71c6-4684-8f87-29a8454da027.png" width="200" height="400"/>
 
 <!--
 **16SeungHun/16SeungHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
