@@ -4,6 +4,7 @@
 <img src="https://github.com/16SeungHun/16SeungHun/assets/79971467/9e5367de-71c6-4684-8f87-29a8454da027.png" width="400" height="500"/>
 
 <h3 align="center"><b>About me</b></h3>
+<h3 align="center"><b>아래는 제 경력기술서 입니다.</b></h3>
 <p align="center"><a href="https://www.notion.so/Fully-Connected-AI-1-7051d72076c74e4890fd4b49d1989a47" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
 <p align="center">Hello there!, I am an AI developer who collaborates with a team of colleagues.</p>
