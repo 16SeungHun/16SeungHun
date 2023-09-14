@@ -14,7 +14,7 @@
 <p align="center">In particular, I am conducting research in the field of Prompt Engineering, which can be applied to Text-to-Image models and Inpainting models. 🔥</p>
 <p align="center">I have taken on the role of team leader for the majority of my projects and possess strong leadership and execution skills, enabling me to effectively lead and guide team members.</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=16SeungHun)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=16SeungHun)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
