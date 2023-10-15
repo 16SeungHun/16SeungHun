@@ -7,7 +7,7 @@
 
 <h3 align="center"><b>About me</b></h3>
 <h3 align="center"><b>You can view my resume by clicking on the link below.</b></h3>
-<p align="center"><a href="https://www.notion.so/Fully-Connected-AI-1-7051d72076c74e4890fd4b49d1989a47" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+<p align="center"><a href="[https://www.notion.so/Fully-Connected-AI-1-7051d72076c74e4890fd4b49d1989a47](https://valiant-attempt-67c.notion.site/Fully-Connected-AI-1-7051d72076c74e4890fd4b49d1989a47?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
 
 <p align="center">Hello there!, I am an AI developer who collaborates with a team of colleagues.</p>
 <p align="center">I have been researching large AI models since my undergraduate research days and have developed many applied models.</p>
